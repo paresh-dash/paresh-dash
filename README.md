@@ -1,4 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm PARESH DASH
+
+🎓 MCA Student – Gandhi Engineering College, Bhubaneswar  
+💻 AI Chatbot Developer | Web Developer  
+🚀 Responsive Portfolio Developer  
+
+## 🚀 Skills
+- HTML, CSS, JavaScript
+- Node.js
+- AI / ML Basics
+- Cloud Computing
+
+## 💼 Projects
+🤖 AI Chatbot Project  
+🌐 Responsive Portfolio Website  
+💻 Web Development Projects  
+
+## 📫 Connect With Me
+📧 dashpares620@gmail.com  
+📱 Instagram: @i_m__paresh_
 
 <!--
 **paresh-dash/paresh-dash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
